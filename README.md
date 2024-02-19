@@ -1,1 +1,1 @@
-# 0-9-digits-pics-Identifier
+0 to 9 digits predictor using machine learning algorithm KNN
